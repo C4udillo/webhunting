@@ -1,2 +1,2 @@
 # webhunting
-Html, CSS and JS learning
+Html, CSS and JS learning.
